@@ -1,0 +1,282 @@
+
+Question 1
+During the financial statement audit of Andrea’s Equipment Rentals Ltd. (AER), the lawyers’ response to the legal enquiry letter noted that AER is being sued, as one of its equipment rentals exploded, injuring multiple people. The amount is significantly higher than materiality. The outcome of this litigation is uncertain but would significantly impact AER. Management has disclosed this in its notes to the financial statements.
+ 
+Which one of the following is the impact on the audit report?
+
+a) Discuss the litigation in the opinion paragraph, providing an adverse opinion.
+b) Discuss the litigation in the opinion paragraph, providing an unqualified opinion.
+c) Present the litigation in the other matter paragraph.
+d) Draw attention to the litigation in the emphasis of matter paragraph.
+
+Question 2
+Inga Inc. is a manufacturer of beauty products such as makeup. It is a listed entity.
+ 
+Which one of the following issues should be communicated to the board of directors of the entity after the year-end audit is complete?
+ 
+a) Inga has adopted an aggressive capitalization policy, resulting in a significant amount of annual expenditures being capitalized for which the auditor has proposed an adjustment.
+b) The controller was very knowledgeable and provided information on a very timely basis. This resulted in the auditor being able to complete their work on a timely basis.
+c) There was an insignificant recall on some of Inga's products due to a manufacturing error.
+d) Inga's long-time sales representative, who developed relationships with retailers, left Inga for a competitor.
+
+Question 3
+A partnership that reports using ASPE has two current partners, Ting and Zoe, who share income and losses of the partnership equally. On January 1 of the current year, the net assets of the partnership are $250,000. A new partner, Samantha, is admitted with a 25% ownership share after contributing $150,000 in cash.
+ 
+Which one of the following describes how the bonus (or loss) is allocated when admitting Samantha to the partnership, assuming the bonus method is used?
+a) Ting and Zoe are each allocated a bonus of $25,000.
+b) Ting, Zoe, and Samantha are each allocated a bonus of $16,667.
+c) Ting and Zoe are each allocated a bonus of $43,750.
+d) Ting and Zoe are each allocated a loss of $17,188.
+
+Question 4
+The auditor is wrapping up the audit of Sorny Inc. During the audit, the auditor found that intangible assets had not been tested for impairment, although this was required by the relevant accounting standards. The auditor was able to obtain sufficient audit evidence to conclude that the related misstatement is material but not pervasive for the year-end statements. Sorny has not adjusted for the misstatement.
+ 
+Which one of the following is the effect on the audit report of Sorny?
+a) A disclaimer of opinion
+b) An emphasis of matter paragraph
+c) A qualified opinion
+d) An adverse opinion
+
+Question 5
+A practitioner has been asked by a new client, Cinta Windows and Doors (CWD), whether it should have an audit engagement or a review engagement performed on its financial statements. The practitioner was provided with the following facts:
+•        Dwi, the owner of the business, is involved in the daily operations.
+•        The bank has not required a specific level of assurance.
+•        CWD is anticipating very low cash flow in its first year of operations and would like to minimize costs.
+ 
+Which one of the following describes the engagement that would BEST suit CWD’s needs, and why?
+a) Audit, because the owner of the store is involved in the daily operations
+b) Audit, because CWD is anticipating low cash flow
+c) Review, because user needs do not warrant an audit
+d) Review, because there are limited users of the financial statements
+
+Question 6
+While Walter is conducting a review at Saule Ltd., he has become aware through inquiry that there may be employees taking advantage of their expense claims by claiming amounts that are not supported.
+ 
+Which one of the following would be the MOST appropriate course of action in a review engagement for suspected fraud?
+a) Compare employee expense claims for the current year to those from the prior year, and inquire of management about any employee who had increased expense claims in the current year.
+b) Select a sample of expense claims to test in order to verify the authenticity of expenses.
+c) Inquire with senior management regarding the suspected fraud.
+d) Withdraw from the engagement.
+
+Question 7
+Jamil Corp. and Voshi Co. formed a jointly controlled enterprise on January 1, Year 3. Jamil invested plant and equipment with a carrying value of $500,000, a residual value of $50,000, and a fair value of $800,000 for a 40% interest in the venture. The remaining useful life of the plant and equipment was four years. All companies report under ASPE. These transactions have commercial substance.
+ 
+How much is Jamil’s deferred gain in the investment account arising from the asset transfer on January 1, Year 3?
+a) $90,000
+b) $100,000
+c) $120,000
+d) $180,000
+ 
+Question 8
+Top Corp. and Gray Ltd. entered into a joint venture agreement and founded TG Inc. on January 1, Year 1. Top contributed $100,000 cash and equipment with a fair value of $450,000 in exchange for a 35% interest in TG. Gray owns the remaining 65% interest.
+Additional information:
+All transactions detailed were determined to have commercial substance.
+All companies share a common December 31 year end and report under IFRS.
+The net book value of the contributed equipment, which originally cost $800,000, is $550,000. It has a remaining useful life of four years, after which time the residual value is estimated to be $0. The fair value of the equipment represents its recoverable amount.
+TG reported net income of $280,000 for the year ended December 31, Year 1.
+During Year 1, TG declared and paid $120,000 in dividends to its joint venture partners.
+At which one of the following amounts will the investment be reported on Top’s financial statements for the year ended December 31, Year 1?
+
+a) $494,000
+b) $597,250
+c) $606,000
+d) $648,000
+
+Question 9
+Yello Inc. (YI) purchased inventory from a U.S. supplier on December 15, Year 2, for US$700,000. The supplier must be paid by January 31, Year 3. YI has a December 31,  Year 2, year end. To hedge this risk, YI invested in a forward contract on December 15, Year 2, to purchase US$700,000 on January 31, Year 3, at a forward rate of US$1 = C$0.78. Relevant exchange rates are as follows:
+ 
+Spot rates
+ 
+December 15, Year 2
+
+US$1 = C$0.80
+
+December 31, Year 2
+
+US$1 = C$0.76
+
+January 31, Year 3
+
+US$1 = C$0.74
+
+
+Forward rates for delivery on January 31, Year 3
+
+December 15, Year 2
+
+US$1 = C$0.78
+
+December 31, Year 2
+
+US$1 = C$0.75
+
+January 31, Year 3
+
+N/A
+
+
+ 
+YI has designated the forward contract as a fair value hedge.
+
+Which one of the following represents the correct journal entry that would be made on December 31, Year 2?
+
+a) Dr. Accounts payable $28,000
+Cr. Foreign exchange gain $28,000
+
+Dr. Foreign exchange loss $21,000
+Cr. Receivable from bank $21,000
+
+b) Dr. Foreign exchange loss $28,000
+Cr. Accounts payable $28,000
+
+Dr. Foreign exchange loss $21,000
+Cr. Payable to bank $21,000 
+
+c) Dr. Accounts payable $14,000
+Cr. Foreign exchange gain $14,000
+
+Dr. Foreign exchange loss $14,000
+Cr. Receivable from bank $14,000
+
+d) Dr. Accounts payable $28,000
+Cr. Foreign exchange gain $28,000
+
+Dr. Other comprehensive income $21,000
+Cr. Receivable from bank $21,000
+
+Question 10
+Yello Inc. (YI) purchased inventory from a U.S. supplier on December 15, Year 2, for US$700,000. The supplier must be paid by January 31, Year 3. YI has a December 31, Year 2, year end. To hedge this risk, YI invested in a forward contract on December 15, Year 2, to purchase US$700,000 on January 31, Year 3, at a forward rate of US$1 = C$0.78. Relevant exchange rates are as follows:
+
+Spot rates
+ 
+December 15, Year 2   US$1 = C$0.80
+
+December 31, Year 2  US$1 = C$0.76
+
+January 31, Year 3  US$1 = C$0.74
+
+Forward rates for delivery on January 31,Year 3
+
+December 15, Year 2  US$1 = C$0.78
+
+December 31, Year 2  US$1 = C$0.75
+
+January 31, Year 3  N/A
+
+YI has designated the forward contract as a fair value hedge.
+
+Which one of the following represents the correct journal entry that would be recorded at the final settlement of the forward contract?
+
+a) Dr. Payable to bank $546,000
+Cr. Cash $546,000
+
+Dr. Cash $525,000
+Cr. Receivable from bank $525,000 
+
+b) Dr. Payable to bank $546,000
+Cr. Cash $546,000
+
+Dr. Cash $518,000
+Cr. Receivable from bank $518,000 
+
+c) Dr. Payable to bank $518,000
+Dr. Foreign exchange loss $28,000
+
+Cr. Cash $28,000
+Cr. Receivable from bank $518,000
+
+d) Dr. Payable to bank $518,000
+Dr. Foreign exchange loss $56,000
+
+Cr. Cash $28,000
+Cr. Receivable from bank $546,000
+
+
+Question 11
+Slice Corp. purchased a controlling interest in Lux Inc. on December 31, Year 9. Lux operates in Italy, where the currency is the euro (€), and Lux’s functional currency is the euro. In preparation for the consolidation process, the financial statements of Lux need to be translated into Canadian dollars, and the appropriate translation gain or loss calculated. Below are excerpts of Lux’s financial statements for the year ended December 31, Year 10:
+ 
+Year 10	Year 9
+Common shares	         €800,000	        €800,000
+Retained earnings	          308,000	          176,000
+Profit	311,250	 
+Dividends declared and paid (December 15)	179,250	 
+ 
+Foreign exchange rates
+
+December 31, Year 9	€1 = C$1.37
+December 15, Year 10	€1 = C$1.33
+December 31, Year 10	€1 = C$1.35
+Average rate Year 10	€1 = C$1.36
+ 
+Slice reports under IFRS.
+ 
+How much translation gain or loss arises in Year 10?
+
+a) $264,620 loss
+b) $26,217 loss
+c) $22,632 loss
+d) $158,680 gain
+
+Question 12
+On October 1, Year 1, Alberta Camp Services Ltd. (ACSL) purchased 70% of the shares of Wholesale Foods Inc. (WFI) for $3,100,000. On October 1, Year 1, WFI reported share capital of $150,000 and retained earnings of $2,600,000. All assets and liabilities had fair values equal to book values, except for WFI’s inventory and buildings. Inventory had a fair value of $360,000 and a book value of $280,000. Buildings that originally cost $2,500,000 had a book value of $1,875,000 and a fair value of $1,775,000. ACSL reports under ASPE and chooses to consolidate its subsidiaries.
+ 
+The elimination entry needed to consolidate the balance sheet on October 1, Year 1, will include which of the following related to fair value differentials?
+ 
+a) Cr. Inventory $80,000; Dr. Buildings $100,000
+b) Cr. Inventory $56,000; Dr. Buildings $70,000
+c) Dr. Inventory $56,000; Cr. Buildings $70,000
+d) Dr. Inventory $80,000; Cr. Buildings $100,000
+ 
+
+Question 13
+Abba Co. owns a 40% interest in Jay Ltd., a joint venture. Information for the two entities for the year ended July 31, Year 1, is as follows:
+	|Sales|Net Income
+Abba|$5,000,000|1,500,000
+Jay|$3,900,000|800,000
+
+During the year, Jay had sales of $20,000 to Abba and earned a gross margin of 40% on these sales. At year end, Abba had resold 50% of these goods.
+
+Also during the year, Abba had sales of $60,000 to Jay and earned a gross margin of 50% on these sales. At year end, none of these goods had been resold.
+
+The tax rate for both companies is 30%.
+
+How much investment income from Jay that be reported on Abba’s statement of comprehensive income for the year ended July 31, Year 1?
+a) $306,400
+b) $310,480
+c) $318,880
+d) $320,000
+
+
+Question 14
+On January 1, Year 10, Pepper Inc. acquired 80% of the outstanding voting shares of Salt Inc. for total consideration of $1,200,000. On this date, Salt reported total assets of $1,800,000 and total liabilities of $800,000. All assets and liabilities had fair values (FVs) equal to book values (BVs) except for the following:
+ 
+ 	Book value	Fair value
+Patent	                 —	  $   90,000
+Bonds payable	     $ 150,000	  $ 200,000
+ 
+The patent had a remaining useful life of 10 years as of the date of acquisition. The bonds mature on December 31, Year 13. It is now December 31, Year 12, and Pepper and Salt reported $140,000 and $80,000 of net income, respectively, in their legal entity financial statements. Both entities report under IFRS.
+ 
+How much would be reported for consolidated net income attributable to the non-controlling interest (NCI) on the consolidated statement of comprehensive income for the year ended December 31, Year 12?
+a) $5,900
+b) $11,700
+c) $15,300
+d) $16,700
+
+Question 15
+Friendly Packaging Inc. (Friendly) purchased 100% of a foreign subsidiary, Excessive Plastics Co. (EPC) on May 1, Year 6. On June 30, Year 8, the year end of both companies, EPC had a net property, plant, and equipment (PP&E) balance of FCU900,000. Of this balance, EPC had purchased FCU700,000 on December 31, Year 2, and the remaining FCU200,000 worth of PP&E was purchased on July 30, Year 7. The functional currency of both Friendly and EPC is the Canadian dollar.
+ 
+Exchange rates
+December 31, Year 2 | FCU1 = C$0.95
+May 1, Year 6 | FCU1 = C$0.86
+July 30, Year 7 | FCU1 = C$0.83
+June 30, Year 8 | FCU1 = C$0.80
+Average for Year 8 | FCU1 = C$0.82
+ 
+Friendly prepares its financial statements in accordance with IFRS.
+ 
+How much is EPC’s PP&E balance after translation to the Canadian dollar on June 30, Year 8?
+
+a) $720,000
+b) $747,000
+c) $768,000
+d) $831,000
