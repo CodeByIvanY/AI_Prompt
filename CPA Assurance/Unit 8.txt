@@ -1,0 +1,180 @@
+
+Question 1
+Shayla works for her provincial auditor general in the internal audit department. Her office has received complaints that the province’s hazardous spill response is inadequate, so Shayla’s office has launched an internal audit on this issue under CSAE 3001 Direct Engagements. Oversight of hazardous spill response is the responsibility of the Ministry of Environment (the Ministry). Shayla’s audit team determined that the audit should focus on oversight of spill response, using the following criteria:
+•        Environmental laws and regulations related to hazardous spills and acceptable levels of contaminants
+•        The policies and procedures contained within the Ministry’s Hazardous Spill Response Plan
+•        International guidance regarding best practices for hazardous spills
+ 
+Which one of the following is the BEST procedure that Shayla can perform with respect to addressing the risk of an inadequate spill response?
+a) Identify the number of spill response officers employed by the province and in which areas, and compare to where the hazardous spills occurred.
+b) Analyze soil and water samples near recent hazardous spills to determine whether contaminants are lower than required by regulation.
+c) Analyze the calculation of cost recovery for those parties responsible for hazardous spills and determine whether costs have been recovered.
+d) Read the Ministry's Hazardous Spill Response Plan and compare to international best practices for hazardous spills.
+
+Question 2
+Each year, Northeast University (Northeast) must report separately to the Ministry of Education on the number of full- and part-time students enrolled. The ministry provides all universities with a reporting manual that details how each report must be prepared, including how numbers are calculated and how the results must be presented. The manual also includes details of the assurance required, including the following:
+•        An audit of the information is required.
+•        The auditor must be satisfied that there is no more than a 3% level of error, with an 85% level of confidence.  
+Which one of the following is the MOST appropriate type of assurance engagement for the enrolment report?
+a) CAS 805 Special Considerations — Audits of Single Financial Statements and Specific Elements, Accounts or Items of a Financial Statement
+b) CSAE 3000 Attestation Engagements Other than Audits or Reviews of Historical Financial Information
+c) CSAE 3001 Direct Engagements
+d) CSAE 3531 Direct Engagements to Report on Compliance
+
+Question 3
+Knit and Pearl Inc., a private company that reports under ASPE, has recently decided to motivate and reward employees by allowing them to share in profits based on a specific formula. The profit participation is reported as “employee bonuses” on Knit and Pearl’s income statement. To ensure transparency and build trust with employees, it was decided that an independent audit firm should be engaged to provide assurance over the calculation of employee bonuses. Management wishes to provide employees with the greatest comfort possible that the calculation of employee bonuses was performed accurately. 
+Which one of the following assurance engagements would BEST meet Knit and Pearl’s needs?
+a) CAS 800 Special Considerations – Audits of Financial Statements Prepared in Accordance with Special Purpose Frameworks
+b) CSRE 2400 Engagements to Review Historical Financial Statements
+c) CSRS 4400 Agreed-upon Procedures Engagements
+d) CAS 805 Special Considerations – Audits of Single Financial Statements and Specific Elements, Accounts or Items of a Financial Statement
+
+Question 4
+Surf’s Up Inc. (SUI) has a significant loan outstanding with NB Bank. NB Bank has requested that SUI provide it with financial statements prepared using the cash basis of accounting. These financial statements must be audited as per the loan agreement between NB Bank and SUI.
+Which one of the following standards would be applicable for this engagement?
+a) CAS 800 Special Considerations – Audits of Financial Statements Prepared in Accordance with Special Purpose Frameworks
+b) CAS 810 Engagements to Report on Summary Financial Statements
+c) CSAE 3416 Reporting on Controls at a Service Organization Relevant to User Entities' Internal Control Over Financial Reporting
+d) CSAE 3531 Audit – Direct Engagements to Report on Compliance
+
+Question 5
+Slack Industries has a defined benefit pension plan. The latest trustee’s report contained the following information:
+Fair value of plan assets, beginning of the year  $1,800,000
+Weighted average value of plan assets  1,970,000
+Actual return on plan assets  89,000
+Rate used to discount the defined benefit obligation  6%
+
+Slack Industries reports under IFRS.
+ 
+How much is the remeasurement gain or loss?
+a) $29,200 remeasurement loss
+b) $19,000 remeasurement loss
+c) $10,200 remeasurement gain
+d) $118,200 remeasurement gain
+
+Question 6
+On January 1, Year 1, Electric Co. issued share options to its five executives. Each executive holds 1,000 options that had a fair value on the grant date of $35 each. The options had a vesting period of two years. Electric anticipated that all options would vest. However, in Year 2, one of the executives left the company for an offer from a competitor. Electric reports under IFRS and has a year end of December 31.
+ 
+Which one of the following is the expense related to the options that would be recognized in Year 2?
+a) $52,500
+b) $70,000
+c) $87,500
+d) $140,000
+
+Question 7
+On January 1, Year 4, the net defined benefit liability on the financial statements of Abel Co. was $250,000. Abel follows IFRS.
+ 
+Abel’s controller provided the following information for the period of January 1 to December 31, Year 4:
+•        Total benefits in the amount of $10,000 were paid evenly throughout the year.
+•        The company contributed $200,000 during the year.
+•        The current service costs were determined to be $50,000.
+•        The net interest cost on the defined benefit obligation was $30,000.
+•        There were no remeasurement gains or losses during the year.
+Which one of the following is the balance of the net defined benefit liability on Abel’s December 31, Year 4, financial statements?
+a) $120,000
+b) $130,000
+c) $330,000
+d) $530,000
+
+Question 8
+On January 1, Year 4, the net defined benefit liability on the financial statements of Abel Co. was $250,000. Abel follows IFRS.
+Abel’s controller provided the following information for the period of January 1 to December 31, Year 4:
+•        Total benefits in the amount of $10,000 were paid evenly throughout the year.
+•        The company contributed $200,000 during the year.
+•        The current service costs were determined to be $50,000.
+•        The net interest cost on the defined benefit obligation was $30,000.
+•        There were no remeasurement gains or losses during the year.
+Which one of the following is the pension expense for the year ended December 31, Year 4?
+a) $20,000
+b) $70,000
+c) $80,000
+d) $90,000
+
+Question 9
+Superior Inc. grants 4,000 share appreciation rights (SARs) on January 1, Year 1, to its employees. The SARs have a vesting period of two years and must be exercised on January 1, Year 3. The following information relates to the SARs:
+  |Employees who qualify for the SARs|Fair value of the SARs|Market value of the shares
+December 31, Year 1|95%|$10|$60
+December 31, Year 2|80%|$18|$85
+January 1, Year 3|—|—|$75
+Superior reports under IFRS and has a year end of December 31.
+Which one of the following is the balance in the SAR liability account just prior to settlement on January 1, Year 3?
+
+a) $32,000
+b) $57,600
+c) $68,400
+d) $240,000
+
+Question 10
+At the beginning of Year 1, Smart Care Corp. (SCC) began operating a dry cleaning business in a leased property in a strip mall.
+•        The lease agreement requires SCC to leave the strip mall site in its original state at the end of the 10-year lease by ensuring that chemicals remaining in the soil are below acceptable levels.
+•        Engineering reports commissioned by SCC show that the best estimate of costs to settle the obligation in 10 years will equal $150,000.
+•        The company’s risk-adjusted market discount rate for this liability is 9%.
+•        The market risk-free rate is 5%.
+•        SCC reports under IFRS.
+Which one of the following is the balance of the decommissioning provision at the end of Year 2?
+a) $63,362
+b) $69,064
+c) $75,280
+d) $101,526
+
+Question 11
+Green Grove Co. (GGC) is a forestry company that has a grove of trees with an original cost of $800,000. GGC has estimated that the trees will be cut down in 20 years. The fair value of the trees on June 30, Year 10, was $1,400,000 and on June 30, Year 11, was $1,550,000. Selling costs are expected to be 10%. GGC reports under IFRS.
+Which one of the following amounts will be included in GGC’s net income for the year ended June 30, Year 11, as a result of the change in value of the trees?
+a) $40,000 depreciation
+b) $135,000 fair value increase included in the profit or loss
+c) $150,000 fair value increase included in the profit or loss
+d) $595,000 fair value increase included in the profit or loss
+
+Question 12
+Marine Manufacturing Inc. (MMI) classified land and building as held for sale on May 1, Year 8. The sale is expected to occur on January 31, Year 9.
+•        The land and building had a cost of $1,500,000 and $4,780,000, respectively.
+•        At the time of acquisition, the building had a residual value of $100,000. The building is being depreciated on a straight-line basis over 30 years. MMI has a policy of pro-rating depreciation by months used in the years of   acquisition and disposal.
+•        On May 1, Year 8, the building had accumulated depreciation of $1,780,000, and no depreciation has been recorded for Year 8.
+•        On May 1, Year 8, the land and building had a fair value less costs to sell of $1,800,000 and $3,000,000,  respectively.
+•        MMI follows IFRS and has a December 31 year end.
+Which one of the following amounts is MMI’s assets held for sale balance on December 31, Year 8?
+a) $4,344,000
+b) $4,448,000
+c) $4,500,000
+d) $4,800,000
+
+Question 13
+On January 1, Year 1, Miski Corp. granted 1,000 share options to each of its 525 employees. The options have a three-year vesting period. At the grant date, the fair value of each option was $2.80. Additional information:
+•        At the end of Year 1, 20 employees leave, and Miski estimates that an additional 75 will leave in the next two years.
+•        During Year 2, 30 employees leave, and Miski estimates that another 50 will leave in the next year.
+•        During Year 3, 35 employees leave.
+Miski follows IFRS and has a December 31 year end.
+How much compensation expense will Miski recognize in Year 2 related to these options?
+a) $392,000
+b) $396,667
+c) $438,667
+d) $793,333
+
+
+Question 14
+Eli owns 90% of Able Inc. and 100% of Buddy Inc. Buddy, which reports under ASPE, purchased some manufacturing equipment from Able during the year for $70,000. Able is a manufacturing company, and this equipment is excess due to a decrease in Able’s production levels. Buddy plans to use it to upgrade its existing manufacturing equipment. The equipment had a book value of $55,000 and an original cost of $115,000, and it has a current market value of $60,000. 
+Which one of the following entries should Buddy make to record the purchase?
+a) 
+Dr. Equipment                   $60,000    
+Dr. Retained earnings    $10,000    
+        Cr. Cash                                                         $70,000
+b) 
+Dr. Equipment    $70,000    
+        Cr. Cash                               $70,000
+c) 
+Dr. Equipment                                  $115,000    
+         Cr. Contributed surplus                                         $45,000
+         Cr. Cash                                                                         $70,000
+d) 
+Dr. Equipment                   $55,000    
+Dr. Retained earnings    $15,000    
+         Cr. Cash                                                     $70,000
+
+Question 15
+Halladora Inc. agrees to exchange inventory with a cost of $8,200 and a fair value of $11,500 for landscaping services from Green Ltd. The landscaping services have a cost of $7,600 and a fair value of $12,200. Halladora compensates Green with an additional $2,500 in cash. Halladora reports under ASPE. 
+ 
+At which one of the following values should Halladora record the landscaping services?
+a) $10,700
+b) $12,200
+c) $14,000
+d) $14,700
