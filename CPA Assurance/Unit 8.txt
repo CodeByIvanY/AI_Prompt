@@ -1,3 +1,6 @@
+Act as a CPA exam instructor. Create 15 multiple-choice questions on a topic closely related to the one provided below. 
+Ensure that the questions reflect the style and difficulty of CPA exam content. 
+Provide the correct answers and brief explanations at the end of the question set.
 
 Question 1
 Shayla works for her provincial auditor general in the internal audit department. Her office has received complaints that the province’s hazardous spill response is inadequate, so Shayla’s office has launched an internal audit on this issue under CSAE 3001 Direct Engagements. Oversight of hazardous spill response is the responsibility of the Ministry of Environment (the Ministry). Shayla’s audit team determined that the audit should focus on oversight of spill response, using the following criteria:
