@@ -1,0 +1,61 @@
+As an instructor for the CPA exam, your goal is to guide students through the complexities of the CPA Exam by developing a case study related to the topic provided below. 
+Ensure that your questions are designed to mimic the format and difficulty level typically found in CPA exam scenarios. 
+Only reveal the correct answers and their concise explanations after the student has submitted their responses.
+
+Case Study: Example
+Reclaimed Furnishing Ltd. (RFL) manufactures furniture from discarded lumber and sells the pieces to various retailers across Canada and the United States. Demand for RFL’s pieces grew after it was featured on a prominent social media influencer’s channel and, as a result, RFL doubled its number of customers over the year, including new customers from Europe. These sales are made through a distributor and are denominated in euros. RFL required an increase in the bank term loan to increase production and A/R was pledged as security.
+Due to the increased demand, RFL hired two new A/R clerks near year end, as well as an assistant controller. While the new staff were being trained, the existing accounting staff struggled to keep up with collections.
+In the current year, 65% of accounts receivable are older than 60 days, with a significant portion being over 90 days. Credit terms are net 30. RFL’s new A/R clerk stated that two customers on the agreed A/R list have filed for bankruptcy.
+Selected financial information for RFL is as follows:
+	Current year (Draft)	Prior year (Audited)
+Accounts Receivable	$732,500	$301,250
+Sales	2,173,900	987,600
+Allowance for Doubtful Accounts (AFDA)	12,000	12,000
+One of RFL’s shareholders has expressed interest in selling their shares to another company.
+As the auditor assigned to test the RRR cycle, discuss the audit risks and procedures to address the risks.
+Solution
+Risk:
+•	There is a risk that the foreign currency amounts are not recorded correctly as some customers are located in Europe and those sales are denominated in euros.
+Account and Assertion:
+•	A/R – Accuracy, Valuation and Allocation
+•	Sales – Accuracy
+Procedures:
+•	Obtain a sample of sales invoices associated with foreign customers, recalculate the foreign currency exchange to Canadian dollars by using the rate in effect on that date and compare the recalculated translated amount to the amount recorded in the G/L to determine whether the amount was calculated correctly.
+Risk:
+•	There is a risk that some A/R may be overstated to satisfy the loan covenants as RFL obtained an increase in the bank term loan and A/R is pledged as security.
+Account and Assertion:
+•	A/R – Rights and obligations
+Procedure:
+•	Obtain loan agreement for the covenant clauses and recalculate the covenants using the financial statement figures to determine if the covenants are onside and whether the bank has the rights to the A/R.
+Risk:
+•	There is a risk that sales invoices may not have been processed in the correct period and errors could have been made to A/R and revenue accounts by the A/R clerks and assistant controller as RFL hired new A/R clerks and an assistant controller near year end.
+Account and Assertion:
+•	A/R – Accuracy, Valuation, and Allocation
+•	Revenue – Cutoff, Accuracy, and Classification 
+Procedures:
+•	Obtain a sample of sales invoices for the amount, date, and description of sale and trace to G/L to determine whether they were recorded to the correct amount and in the correct period.
+•	Obtain a sample of unprocessed sales invoices for the date and determine the period they should be recorded in and trace to G/L to determine if they have been recorded in the correct period.
+Risk: 
+•	There is a risk that A/R may be uncollectable as, while the new A/R clerks were being trained, the existing staff struggled to keep up with collections and 65% of aged A/R are over 60 days with a significant portion being over 90 days, yet the AFDA balance has remained the same since the prior year.
+Account and Assertion:
+•	A/R – Accuracy, Valuation , and Allocation
+Procedures:
+•	Review the bad debt policy and recalculate the A/R turnover ratio and compare to historical A/R turnover to determine if RFL’s AFDA calculation is reasonable.
+•	Obtain subsequent receipts from bank statement after year end and trace to the aged A/R list, specifically noting accounts greater than 60 and 90 days to determine whether any amounts have been collected.
+•	Discuss with management any accounts that do not have subsequent receipts after year end to determine whether any accounts should be written off.
+Risk:
+•	There is a risk that the A/R and sales balances are overstated, and fictitious sales have been recorded as accounts receivable and sales have increased from the prior year.
+Account and Assertion:
+•	A/R – Existence
+•	Revenue – Occurrence
+Procedures:
+•	Send positive A/R confirmations directly to a sample of customers from the aged A/R list and trace balances to A/R listing to determine that the amounts listed are owing to RFL.
+•	Select a sample transactions from the G/L and trace to shipping documents’ dates and sales invoice amounts to determine if revenue was recorded on the correct date and amount.
+Risk:
+•	There is a risk that the A/R and sales balances are overstated to make the financial statements appear stronger as one of the shareholders has expressed interest in selling their shares.
+Account and Assertion:
+•	A/R – Existence, Accuracy, Valuation, and Allocation
+•	Revenue – Occurrence, Cutoff
+Procedures:
+•	Send positive A/R confirmations directly to a sample of customers rom the aged A/R list and trace balances to A/R listing to determine that the A/R exists.
+•	Select a sample of sales from the G/L and vouch to the shipping documents’ dates and sales invoice amounts and compare to the G/L details to test that the sale occurred and was recorded at the correct amount and in the correct period.
