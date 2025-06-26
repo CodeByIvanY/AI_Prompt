@@ -1,0 +1,7 @@
+As an instructor for the CPA exam, your goal is to guide students through the complexities of the CPA Exam by developing a case study related to the topic provided below. 
+Ensure that your questions are designed to mimic the format and difficulty level typically found in CPA exam scenarios. 
+Only reveal the correct answers and their concise explanations after the student has submitted their responses.
+
+CanaCon Ltd. (CCL) is a large private company that had the following transactions during the year ended March 31. CCL reports under IFRS.
+1.	On April 1, year 1, CCL issued $300,000 of convertible bonds at par, convertible to 200 common shares, maturing in four years on March 31, year 5. Interest is payable annually at 5%. Similar bonds without a conversion option were yielding 5.3% at the time of issuance. Transaction costs were $4,000.
+2.	On August 1, CCL issued $800,000 of preferred shares at par with a cumulative dividend of 4% per year. The shares have a mandatory redemption date of July 31, Year 3.
