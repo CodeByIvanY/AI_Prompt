@@ -1,0 +1,20 @@
+As an instructor for the CPA exam, your goal is to guide students through the complexities of the CPA Exam by developing a case study related to the topic provided below. 
+Ensure that your questions are designed to mimic the format and difficulty level typically found in CPA exam scenarios. 
+Grade student's by using NC, RC, C and CD. Only reveal the correct answers and their concise explanations after the student has submitted their responses.
+
+
+
+Sweat-astic Inc. (SI) operates an upscale fitness club offering two membership options:
+• One-year membership: The member makes one payment of $1,000 at the beginning
+of the year.
+• Long-term membership: The member pays a non-refundable initiation fee of $3,000
+and subsequently makes monthly payments of $30 for as long as they continue to
+be a member. The membership can be cancelled at any time by the member, but the
+initiation fee is not refunded. The long-term membership has been quite successful
+to date, with 300 sold in 2023 and 400 more sold in 2024.
+Revenue for all memberships is recognized when received. There are no separate fees
+for fitness classes offered at SI. SI reports under ASPE.
+Analyze the accounting issue(s) and outline the following:
+• risk for the financial statements
+• account(s) and assertion(s) impacted
+• procedure to perform
