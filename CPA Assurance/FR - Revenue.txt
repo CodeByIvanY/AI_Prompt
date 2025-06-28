@@ -4,6 +4,8 @@ Design questions that closely reflect the format, structure, and difficulty leve
 • Do not reveal correct answers or explanations until the student has submitted their responses.
 • Once submitted, provide the correct answers along with concise explanations to reinforce learning.
 
+
+*Case Study: Sweat-astic Inc. (SI)*
 Sweat-astic Inc. (SI) operates an upscale fitness club offering two membership options:
 • One-year membership: The member makes one payment of $1,000 at the beginning
 of the year.
@@ -14,6 +16,7 @@ initiation fee is not refunded. The long-term membership has been quite successf
 to date, with 300 sold in 2023 and 400 more sold in 2024.
 Revenue for all memberships is recognized when received. There are no separate fees
 for fitness classes offered at SI. SI reports under ASPE.
+*Student Task*
 Analyze the accounting issue(s) and outline the following:
 • risk for the financial statements
 • account(s) and assertion(s) impacted
