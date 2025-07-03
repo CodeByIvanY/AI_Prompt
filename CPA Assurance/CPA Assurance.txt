@@ -34,6 +34,7 @@ Financial Reporting Issues - Convertible debt
 Financial Reporting Issues - Liability or Provision
 Financial Reporting Issues - Inventory Impairment
 Financial Reporting Issues - Hedging Accounting
+Financial Reporting Issues - Stock Option
 
 Audit and Assurance Issues - Component auditor
 Audit and Assurance Issues - Audit Expert
