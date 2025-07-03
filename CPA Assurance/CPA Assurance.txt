@@ -28,6 +28,7 @@ Financial Reporting Issues - Foreign Currency Transactions
 Financial Reporting Issues - Sales and Leaseback
 Financial Reporting Issues - Lease from lessor's perspectives
 Financial Reporting Issues - Held-for-sale assets
+Financial Reporting Issues - Discontinued Operations 
 Financial Reporting Issues - Biological assets
 Financial Reporting Issues - Government assistance
 Financial Reporting Issues - Convertible debt
@@ -35,6 +36,7 @@ Financial Reporting Issues - Liability or Provision
 Financial Reporting Issues - Inventory Impairment
 Financial Reporting Issues - Hedging Accounting
 Financial Reporting Issues - Stock Option
+Financial Reporting Issues - NMT
 ASPE Financial Reporting Issues - ARO
 
 Audit and Assurance Issues - Component auditor
