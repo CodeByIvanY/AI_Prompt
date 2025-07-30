@@ -1,0 +1,328 @@
+Question 1 
+In 2024, Chavez Computers Ltd., a public company, replaced some of its office furniture with new furniture that was more modern. The new furniture cost $120,500. The old furniture that had been purchased in 2018 was sold for $130,000 ($175,000 original cost). Chavez’s Class 8 opening balance was $151,000.
+How much is the maximum CCA that may be claimed on this class for 2024?
+a)  $19,300
+b) $27,350
+c) $28,300
+d) $11,320
+Feedback
+Option c) is correct.
+UCC beginning of year $ 151,000 
+Additions 120,500 
+Disposals (130,000)
+UCC for CCA 141,500 
+CCA rate × 20% 
+CCA $ 28,300 
+Question 2 
+Nuguse Co. is a Canadian-controlled private corporation (CCPC) with a December 31, 2024, year end. In 2024, Nuguse had the following items included in accounting net income:
+$11,300 in life insurance premiums paid for a policy on the CEO. Nuguse is the beneficiary.
+$6,950 in legal fees paid for the purchase of 25% of the shares of Sandaka Co.
+$20,800 in equity income from Sandaka.
+Nuguse also received $15,600 in dividends from Sandaka during 2024. 
+Which one of the following is the net adjustment for the above items to calculate net income for tax purposes (Schedule 1) for 2024?
+a) $(2,550)
+b) $1,750
+c) $6,100
+d) $13,050
+Feedback
+Option d) is correct. It was determined as follows:
+Life insurance premiums
+$ 11,300 
+Legal fees on purchase of investment in Sandaka
+6,950 
+Equity income
+(20,800)
+Dividends received from Sandaka
+15,600 
+Net adjustment
+$ 13,050 
+The life insurance premiums are not deductible because there is no indication that the life insurance was required as security for financing. For tax purposes, legal fees incurred to make an investment are added to the cost of the investment; therefore, they are not deductible. Equity income is not taxable; therefore, it is deducted to arrive at net income for tax purposes. Dividends received on the investment are added back to determine net income for tax purposes and deducted under Division C from net income to determine taxable income.
+Question 3 
+Reekie Inc. is completing the reconciliation of accounting net income to net income for tax purposes for its taxation year ended December 31, 2024. Net income for tax purposes after all other adjustments except those noted below has been correctly determined as $639,600. Information required to complete the reconciliation is as follows:
+Reekie provides one-year warranties on the products it manufactures. 2024 information for warranties:
+Warranty liability, end of 2023
+$ 232,000
+Warranty expense reported in the 2024 income statement
+234,000
+Warranty liability, end of 2024
+196,500
+In 2023, Reekie sold a capital asset and agreed to collect the proceeds over a three-year period. A capital gains reserve of $26,500 was claimed in 2023. The maximum reserve that may be claimed in 2024 is $15,300.
+How much is Reekie’s net income for tax purposes for 2024?
+a) $609,700
+b) $615,300
+c) $680,700
+d) $686,300
+Feedback
+Option a) is correct. It was determined as follows:
+Net income before final adjustments
+$ 639,600 
+Warranty liability, end of 2023
+(232,000)
+Warranty liability, end of 2024
+196,500 
+Capital gains reserve, end of 2023
+26,500 
+Capital gains reserve, end of 2024
+(15,300)
+Capital gain for 2024
+11,200 
+Capital gains inclusion rate
+× ½ 
+Taxable capital gain
+5,600 
+5,600 
+Net income for tax purposes
+$ 609,700 
+Question 4 
+Fitness First Inc. (FFI) operates several full-service gym locations within the Greater Toronto Area. FFI has a December 31, 2024, year end. FFI incurred the following expenditures during 2024:
+$6,000 for hockey tickets used by salespeople to entertain new and existing corporate clients of FFI
+$13,000 for food and drink relating to FFI’s annual staff party for all of its employees
+$50,000 for fitness equipment purchased on January 1 of 2024
+$8,000 for legal fees paid to a lawyer who advised FFI on the potential acquisition of another gym, which was completed in early 2025
+$2,300 paid in financing fees to secure the funds for opening five new gyms 
+How much is the maximum allowable deduction for these expenditures in computing net income/taxable income for FFI for the current year?
+a) $31,000
+b) $26,460
+c) $29,800
+d) $37,460
+Feedback
+Option b) is correct. $26,460 = [($6,000 × ½) + $13,000 + ($50,000 × 0.20) + $460]. The hockey tickets are 50% deductible as food or beverage incurred for business purposes, or the enjoyment of entertainment incurred for business purposes is equal to 50% of the actual costs. The 50% limitation does not apply to the cost of food and beverages where all employees are invited to attend the party, so this amount is 100% deductible. The fitness equipment is classified as CCA Class 8 (20% declining balance) and, in 2024, the first year of the phase-out period for the accelerated investment incentive, the half-year rule is suspended and the rate for the class is applied to the net additions for the year. The legal fees paid for the potential acquisition of another gym should be capitalized as part of the acquisition and should only be deducted if the gym acquisition is unsuccessful. The financing fees were incurred for the purposes of borrowing money and should be deducted on a straight-line basis over five years.
+Question 5 
+Brown Ltd. has accounting income before tax of $750,000 in 2024. The following items were deducted in the calculation of accounting income before tax:
+$25,000 of meals and entertainment expenses
+$150,000 of depreciation
+$32,000 writedown on machinery
+$110,000 loss on sale of building
+As well, capital cost allowance for the year is $172,000. The building was sold for $370,000 (original cost of $480,000), and at the time of the sale, the building had an undepreciated capital cost (UCC) of $324,000. There were no other assets remaining in the asset class. 
+How much is Brown’s net income for tax purposes for 2024?
+a) $818,500
+b) $836,500
+c) $882,500
+d) $928,500
+Feedback
+Option d) is correct. The calculation is as follows:
+Net income for accounting purposes $ 750,000 
+Add: Depreciation 150,000 
+Add: Writedown on machinery 32,000 
+Add: Loss on sale of building 110,000 
+Add: Recapture ($370,000 – 324,000) 46,000 
+Add: Meals and entertainment ($25,000 × ½) 12,500 
+Deduct: Capital cost allowance (172,000)
+Net income for tax purposes $ 928,500 
+Question 6 
+Thiam Inc. sold a passenger vehicle for $26,900. The vehicle had originally cost $42,500 and the undepreciated capital cost (UCC) at the beginning of 2024, after deducting the 2023 capital cost allowance (CCA) claim, was $10,200. In 2024, Thiam acquired a new vehicle at a cost of $49,800.
+Which one of the following describes the tax consequences of these transactions in 2024?
+a) CCA claim of $6,090
+b) CCA claim of $11,100 and recapture of $16,700
+c) CCA claim of $12,630
+d) CCA claim of $16,470
+Feedback
+Option c) is correct. It was determined as follows:
+CCA claim on vehicle sold: $10,200 × 30% × ½
+$ 1,530
+CCA claim on new vehicle: $37,000 × 30%
+11,100
+Maximum CCA claim
+$ 12,630
+Question 7 
+Laura Muir owns three rental properties. Details for 2024 are as follows:
+Property A
+Property B
+Property C
+Original cost
+$148,500 
+$158,600 
+$170,000 
+Undepreciated capital cost
+121,000 
+124,000 
+150,500 
+Revenue
+27,600 
+34,200 
+40,210 
+Expenses
+(28,300) 
+(36,800) 
+(32,310) 
+Profit (Loss)
+(700) 
+(2,600) 
+7,900 
+During 2024, Property A was sold for proceeds of $125,000.
+How much is the maximum capital cost allowance (CCA) Laura may claim against her rental income in 2024?
+a) $4,600
+b) $6,020
+c) $8,600
+d) $10,980
+Feedback
+Option c) is correct. It was determined as follows:
+Net rental profit on all properties: $7,900 – $700 – $2,600
+$ 4,600
+Recapture on Property A: $125,000 – $121,000
+4,000
+Net rental income after recapture
+$ 8,600
+CCA available: ($124,000 + $150,500) × 4%
+$10,980
+The lesser of these amounts is $8,600; therefore, the maximum CCA claim is $8,600.
+Question 8 
+Scalabrani Co. (SC), a public company, always makes any elections available to minimize its taxable income. In 2022, SC purchased a photocopier at a cost of $18,900. UCC at the beginning of 2024 for the class with no other assets except the photocopier from 2022 was $10,890. During 2024, SC traded in the photocopier for a new photocopier. SC paid $24,600 net of a trade-in value of $7,800 for the new photocopier.
+Which one of the following is the impact of these transactions on SC’s taxable income for 2024?
+a) $7,098 reduction in taxable income
+b) $8,010 reduction in taxable income
+c) $9,570 reduction in taxable income
+d) $20,730 reduction in taxable income
+Feedback
+Option c) is correct.
+Terminal loss on old photocopier: $10,890 – $7,800 $ 3,090
+CCA on new photocopier: ($24,600 + $7,800) × 20% 6,480
+Reduction in taxable income $ 9,570
+SC always makes any elections to minimize its taxable income. A separate class election is available on the photocopier as it is a qualifying asset with a cost greater than $1,000. When the original photocopier is sold, a terminal loss may be claimed. The cost of the new photocopier is added to a separate Class 8.
+Question 9 
+Warholm Ltd., a public company, entered into a lease for office space in 2023. The lease covered a four-year period with two renewal options of two years each. Early in 2023, Warholm paid $75,000 for leasehold improvements. In 2024, another $12,000 was spent on carpeting some of the offices.
+How much is the maximum capital cost allowance (CCA) claim for 2024 for leasehold improvements?
+a) $11,089
+b) $14,900
+c) $17,400
+d) $22,750
+Feedback
+Option b) is correct. It was determined as follows:
+CCA on 2023 leasehold improvements: $75,000/(4 + 2)
+$ 12,500
+CCA on 2024 leasehold improvements: $ [$12,000/(3 + 2)]
+2,400
+2024 CCA claim
+$ 14,900
+The denominator for the CCA claim on the 2023 additions is the four-year lease term plus one two-year renewal period (six years is greater than five years) and the denominator for the 2024 additions is the remaining lease term of three years plus one renewal period of two years.
+Question 10 
+Jones Inc. (JI) sold one of its properties in the current year. When the property had been acquired, JI made an election to include the cost of the building in a separate Class 1. JI originally paid $500,000 and $375,000 for the building and land, respectively.
+The undepreciated capital cost (UCC) of the building at the beginning of the current year was $450,000. JI sold the property for total proceeds of $800,000 and allocated 50% of the proceeds to the land and the remainder to the building.
+Which one of the following describes the tax consequences of the sale of the property?
+a) Terminal loss on the building of $25,000
+b) Recapture on the building of $50,000 and a capital gain on the land of $25,000
+c) Terminal loss on the building of $50,000 and a capital gain on the land of $25,000
+d) Capital loss on the building of $100,000 and a capital gain on the land of $25,000
+Feedback
+Option a) is correct.
+Initial terminal loss on the building: $450,000 – ($800,000 × 50%) $ 50,000 
+Reduced by capital gain on the land: ($800,000 × 50%) – $375,000 (25,000)
+Reduced terminal loss on the building $ 25,000 
+Question 11 
+Sarah Mitton received the following dividends in the 2024:
+Eligible dividends: $300
+Non-eligible dividends: $700
+Foreign dividends: $750 (net of $250 in foreign tax withheld)
+How much taxable income will Sarah have in 2024 as a result of the dividend income?
+a) $1,969
+b) $2,061
+c) $2,219
+d) $2,311
+Feedback
+Option c) is correct. It was determined as follows:
+Eligible dividends: $300 × 1.38
+$ 414
+Non-eligible dividends: $700 × 1.15
+805
+Foreign dividends: $750 + $250
+1,000
+Taxable dividends
+$ 2,219
+Question 12 
+Jill Corp. is an investment corporation. Jill’s formal policy is that no dividends will be paid on its common shares; instead, corporate earnings are reinvested. The shareholders benefit through capital appreciation in the value of the shares. On January 1, 2024, Donna borrowed $250,000 from the bank and used the money to purchase Jill shares. Throughout 2024, Donna paid $10,000 of interest on the loan. By December 31, 2024, Jill shares had increased in value to $265,000.
+How much interest can Donna deduct on her 2024 personal tax return as a carrying charge?
+a) $0
+b) $7,500
+c) $10,000
+d) $15,000
+Feedback
+Option a) is correct. To deduct interest paid for the purchase of shares, there must be a reasonable expectation, at the time the shares are acquired, that dividends will be paid on those shares. Jill's stated policy is that it will not pay dividends; therefore, no interest can be deducted. Also, interest cannot be deducted against increases in the value of the shares because increases in value are considered capital appreciation, and capital appreciation is not considered income (Folio S3-F6-C1).
+Question 13 
+Sarah owns two rental properties, both of which were acquired six years ago. Each property has been placed in a separate Class 1 at 4% for capital cost allowance (CCA) purposes. The following information is available for the two properties for the current year:
+Undepreciated capital cost Revenue Expenses (1)
+Property 1 $216,700 44,750 33,300
+Property 2 $287,500 39,650 41,500
+Note 1: Expenses include property taxes, insurance, interest, and maintenance and repairs. The tenants pay the utilities.
+How much net rental income or loss will be included in Sarah’s personal tax return for the current year assuming that Sarah wishes to minimize her personal tax owing?
+a) $(10,568)
+b) $(1,850)
+c) $0
+d) $932
+Feedback
+Option c) is correct. Net rental income on both properties before CCA: $11,450 – $1,850 = $9,600, which is reduced by CCA of $9,600. A rental loss may not be created or increased through the deduction of CCA. The maximum CCA available is ($216,700 × 4% = $8,668) + ($287,500 × 4% = $11,500) = $20,168.
+Question 14 
+In 2022, Josh Kemp purchased land for $219,000 with the intention of expanding his proprietorship business. Over the two-year period when Josh sought civic approval to get the land rezoned, he rented the property as a parking lot. The following information is relevant:
+2022
+2023
+Parking lot revenue
+$4,500 
+$5,100 
+Property taxes
+2,100 
+2,300 
+Insurance
+900 
+940 
+Mortgage interest
+3,800 
+3,750 
+Josh was unable to get the land rezoned and as a consequence sold the land early in 2024 for $269,500. The land is considered capital property to Josh.
+How much taxable capital gain will Josh include in his 2024 income as a result of sale of the land?
+a) $19,275
+b) $23,155
+c) $24,075
+d) $25,250
+Feedback
+Option b) is correct. It was determined as follows:
+Adjusted cost base of land:
+Price paid
+$219,000
+Net carrying charges added to cost base:
+2022 net carrying charges:
+($4,500 – $900) – $2,100 – $3,800
+2,300
+2023 net carrying charges:
+($5,100 – $940) – $2,300 – $3,750
+1,890
+Adjusted cost base
+$223,190
+Taxable capital gain: ($269,500 – $223,190) × ½
+$ 23,155
+Question 15 
+You have been provided with the following information for assets sold by Devynne Charlton during 2024:
+Asset sold
+Original cost
+Selling price
+Birch bark canoe
+$ 750
+$ 1,600
+Road bike
+1,400
+1,250
+Vintage necklace
+1,200
+2,150
+Vintage earrings
+1,340
+1,050
+How much taxable capital gain does Devynne need to include in her 2024 income?
+a) $555
+b) $630
+c) $755
+d) $775
+Feedback
+Option b) is correct. It was determined as follows:
+Birch bark canoe: $1,600 – $1,000
+$ 600 
+Road bike — personal use property loss is denied
+0 
+Vintage necklace: $2,150 – $1,200
+950 
+Vintage earrings: $1,050 – $1,340
+(290)
+Capital gain
+1,260 
+Inclusion rate
+× ½ 
+Taxable capital gain
+$ 630 
