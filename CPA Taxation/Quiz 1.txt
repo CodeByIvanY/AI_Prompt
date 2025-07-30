@@ -1,3 +1,6 @@
+Act as a CPA exam instructor. Create 15 multiple-choice questions on a topic closely related to the one provided below. 
+Ensure that the questions reflect the style and difficulty of CPA exam content. 
+Provide the correct answers and feedback at the end of the question set.
 Question 1 
 In 2024, Chavez Computers Ltd., a public company, replaced some of its office furniture with new furniture that was more modern. The new furniture cost $120,500. The old furniture that had been purchased in 2018 was sold for $130,000 ($175,000 original cost). Chavez’s Class 8 opening balance was $151,000.
 How much is the maximum CCA that may be claimed on this class for 2024?
