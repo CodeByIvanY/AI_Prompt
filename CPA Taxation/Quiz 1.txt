@@ -1,6 +1,13 @@
 Act as a CPA exam instructor. Create 15 multiple-choice questions on a topic closely related to the one provided below. 
 Ensure that the questions reflect the style and difficulty of CPA exam content. 
 Provide the correct answers and feedback at the end of the question set.
+Note:
+•	Class 10 Passenger vehicles costing up to $37,000, delivery vans, other vehicles ($36,000 for 2023, $34,000 for 2022, and $30,000 for additions before 2022)
+•	Passenger vehicles costing in excess of $37,000 are placed in separate Class 10.1.
+• Accelerated Investment Incentive – applying the prescribed CCA rate for a class to up to 1.5 times the net addition to the class for the year.
+••For assets available for use before 2024, businesses can claim up to 1.5 times the normal CCA rate in the first year. (Half Year Rule not applied + 1.5 times CCA Rate)
+••For assets available for use on or after 2024, business can claim up to 1 time the normal CCA rate in the first year. (Half Year Rule not applied)
+
 Question 1 
 In 2024, Chavez Computers Ltd., a public company, replaced some of its office furniture with new furniture that was more modern. The new furniture cost $120,500. The old furniture that had been purchased in 2018 was sold for $130,000 ($175,000 original cost). Chavez’s Class 8 opening balance was $151,000.
 How much is the maximum CCA that may be claimed on this class for 2024?
