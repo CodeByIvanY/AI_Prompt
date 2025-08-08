@@ -1,0 +1,402 @@
+Act as a CPA exam instructor and create 15 multiple-choice questions on a topic closely related to the one provided below.
+
+Requirements:
+1. The questions must reflect the style, structure, and difficulty typically found in CPA exam content.
+2. Each question must have one clearly correct answer.
+3. Provide the correct answers and concise feedback at the end of the question set to reinforce learning.
+4. Ensure the questions test application, analysis, and critical thinking skills, not just rote memorization.
+ 
+Question 1 
+Hansalle Inc. (HI) is an eligible small Canadian-controlled private corporation (CCPC) and its taxation year end is December 31. Taxes payable for HI in 2023 and 2024 totalled $12,000 and $10,000, respectively, and HI’s estimated taxes payable for 2025 equal $13,000.
+Which one of the following is the minimum required amount for HI’s third quarterly instalment payment due for the 2025 taxation year?
+a) $2,000
+b) $2,333
+c) $2,500
+d) $3,250
+Feedback
+Option b) is correct. It was determined as follows:
+The least of: 
+i) ¼ of estimated net tax owing for 2025 = $13,000 / 4 = $3,250
+ii) ¼ of net tax owing for 2024 = $10,000 / 4 = $2,500
+iii) First instalment: ¼ of net tax owing for 2023 = $12,000 / 4 = $3,000
+Last three instalments: net tax owing for 2024 – first instalment = $10,000 – $3,000 = $7,000 remainder
+⅓ of remainder = $7,000 / 3 = $2,333
+This amount is less than one-fourth of current estimated tax payable of $3,250 ($13,000 / 4) and one-fourth of the 2024 tax payable of $2,500 ($10,000 / 4).
+Question 2 
+Today is August 1, 2024, and Jalbert Inc., a Canadian-controlled private corporation, received a notice of assessment (NOA) relating to its November 30, 2023, year-end corporate income tax return. The NOA was dated July 27, 2024. The CFO of Jalbert disagrees with the Canada Revenue Agency’s (CRA’s) decision to disallow certain expenses and wants to file a notice of objection (NOO).
+Which one of the following dates is the last day on which Jalbert can file an NOO?
+a) October 25, 2024
+b) October 30, 2024
+c) November 30, 2024
+d) May 31, 2025
+Feedback
+Option a) is correct. For corporations, an NOO must be filed within 90 days of the mailing date of the NOA.
+Question 3 
+Graydon Snider, who is not self-employed, filed his 2023 personal income tax return on June 14, 2024. The correct amount of tax owing was $70,000 and Graydon paid the amount in full upon filing. He was assessed a penalty last year for the late filing of his 2022 tax return. Assume the CRA prescribed rate is 5%.
+How much interest and penalties could be assessed for Graydon’s 2023 tax return?
+a) $5,028
+b) $8,180
+c) $8,400
+d) $9,275
+Feedback
+Option d) is correct. The tax payment was due on April 30, 2024. The penalty calculation for a repeated offence is 10% of the tax that was unpaid at the filing deadline plus 2% for each complete month that the unpaid tax is owing (up to a maximum of 20 months). The filing deadline for individuals who are not self-employed is April 30. April 30 to June 14 represents one complete month. Interest is calculated at 9% (4% + 5% prescribed rate) and will also apply on unpaid amounts owing. Therefore, the interest and penalty is calculated as follows:
+Repeated failure to file penalty: [10% + (2% × 1 month)] × $70,000 8,400
+Interest: {($70,000 + 8,400) × [1 + (0.09 / 365)]^45} – $78,400 875
+Total interest and penalty $9,275
+Question 4 
+The controller for Coastal Pools Inc. is calculating taxable income for the year ended 2024.
+Applicable information is as follows:
+Net income for tax purposes is $191,500.
+During 2024, the company sold all of its shares in Breckenridge Ltd. for $27,000. The original cost of the shares was $17,300. No other capital transactions occurred.
+Charitable donations made to the Canadian Cancer Society totalled $525.
+The company has a capital loss carryforward of $11,750 from the previous year when it sold shares in Harrison Ltd.
+How much is taxable income for 2024?
+a) $179,225
+b) $185,100
+c) $186,125
+d) $186,650
+Feedback
+Option c) is correct. This was determined as follows:
+Net income for tax purposes $191,500 
+Charitable donations (525)
+Net capital loss carryforward deducted (4,850)
+Taxable income $186,125 
+Taxable capital gains included in net income were $4,850 [($27,000 – 17,300) × ½ = $4,850]. The net capital loss carryover is $11,750 × ½ = $5,875. The maximum Division C deduction that may be claimed for the net capital loss is the lesser of the taxable capital gain included in income of $4,850 and the net capital loss carryover of $5,875.
+Question 5 
+Norales Inc. sold a property in January of 2024 that was excess to its needs. Details are as follows:
+Land
+Building
+Selling price
+$ 234,000 
+$ 236,000 
+Original cost
+196,000 
+319,000 
+Undepreciated capital cost
+261,000 
+Which one of the following describes the tax consequences of the sale of the property?
+a) Allowable capital loss of $22,500; terminal loss of $25,000
+b) Terminal loss of $6,000
+c) Taxable capital gain of $6,500
+d) Taxable capital gain of $19,000; terminal loss of $25,000
+Feedback
+Option c) is correct. There is a capital gain on the land of ($234,000 – $196,000) = $38,000 and a terminal loss on the building of $261,000 – $236,000 = $25,000. Proceeds are reallocated with the end result being that the capital gain on the land is reduced by the terminal loss on the building, resulting in a taxable capital gain of $6,500. ($38,000 – $25,000) × ½ = $6,500.
+Question 6 
+Martha runs a small business in Markham, Ontario. In March of 2024, Martha sold her existing land and building used for the business and acquired a new property for the same purpose. The proceeds on the sale of the land and building were allocated $324,000 to the land and $486,000 to the building. The original cost of the land and building was $206,000 and $454,000, respectively. The building had an undepreciated capital cost (UCC) of $323,000. Martha immediately moved into her newly acquired property. The $860,000 purchase price was allocated $360,000 to the land and $500,000 to the building. Martha wishes to minimize the impact of these transactions on her income to the extent possible.
+Which one of the following lists the correct amounts for the adjusted costs bases (ACBs) of the new land and building, and the UCC of the new building?
+a) ACB of land — $206,000; ACB of building — $454,000; UCC of building — $323,000
+b) ACB of land — $242,000; ACB of building — $468,000; UCC of building — $337,000
+c) ACB of land — $242,000; ACB of building — $468,000; UCC of building — $369,000
+d) ACB of land — $360,000; ACB of building — $500,000; UCC of building — $500,000
+Feedback
+Option b) is correct. The capital gain on the land is $324,000 – $206,000 = $118,000, and the capital gain on the building is $486,000 – $454,000 = $32,000. The cost of the new land is $360,000, and the cost of the new building is $500,000. In both cases, the total proceeds have been reinvested so the full amounts of the capital gains can be deferred. This will result in ACBs for the land and building as follows: Land: $360,000 – $118,000 = $242,000; Building: $500,000 – $32,000 = $468,000. The full amount of the recapture of $454,000 – $323,000 = $131,000 may also be deferred because an amount in excess of the original cost of the building of $454,000 has been reinvested. UCC after deferred recapture is $468,000 – $131,000 = $337,000.
+Question 7 
+In 2023, Natasha sold a rare painting she had inherited from her grandmother. The selling price was $375,000, and the fair value of the painting at the time Natasha inherited it was $200,000, resulting in a capital gain of $175,000. At the time of sale, she received a cash payment of $56,250. The remaining amount owing is due as follows: 2024 — $159,375; 2025 — $159,375. Natasha claimed the maximum capital gains reserve possible in 2023 and she intends to do the same in 2024.
+How much capital gain will Natasha be subject to tax on in 2024?
+a) $35,000
+b) $43,750
+c) $65,625
+d) $74,375
+Feedback
+Option c) is correct. The 2023 reserve is the lesser of:
+($159,375 + $159,375) / $375,000 × $175,000 = $148,750
+$175,000 × 4/5 = $140,000
+Reserve that may be claimed in 2024 is the lesser of:
+$159,375 / $375,000 × $175,000 = $74,375
+$175,000 × 3/5 = $105,000
+2023 reserve $140,000 less 2024 reserve $74,375 = $65,625 capital gain subject to tax in 2024.
+Question 8 
+Evergreen Co. has computed its net income for tax purposes in 2024 as follows: 
+Income from business
+$200,000
+Dividends from taxable Canadian corporations
+30,000
+Dividends from foreign corporations
+15,000
+Taxable capital gains
+10,000
+Net income for tax purposes
+$255,000
+Evergreen made charitable donations of $5,000 to registered charities in the year. In addition, the company has the following carryover balances at the beginning of the year: 
+Charitable donations (2020)
+$ 2,000
+Net capital loss (2022)
+12,000
+Non-capital loss (2023)
+13,000
+How much is Evergreen’s taxable income in 2024?
+a) $180,000
+b) $193,000
+c) $195,000
+d) $197,000
+Feedback
+Option c) is correct. It was determined as follows: 
+Net income for tax purposes
+$255,000 
+Dividends from taxable Canadian corporations
+(30,000)
+Net capital loss carryover
+(10,000)
+Current-year charitable donations
+(5,000)
+Charitable donations carryover
+(2,000)
+Non-capital loss carryover
+(13,000)
+Taxable income
+$195,000 
+Question 9 
+Fargo Ltd. has a December 31 year end. For 2024, the company reported net income before tax for accounting purposes, determined under generally accepted accounting principles, of $532,000. Fargo has an investment in Dardin Inc., a taxable Canadian corporation, that is accounted for using the equity method. 2024 equity income is $35,800, and dividends received on this investment in 2024 were $23,400. In 2024, Fargo also received dividends from taxable Canadian corporations of $6,800 on portfolio investments and foreign dividends of $4,600. Charitable donations made in the year were $4,200, and net rental income was $21,400. Fargo’s capital cost allowance claim for 2024 is equal to amortization expense reported in the income statement.
+How much is Fargo’s net Canadian active business income (ABI) for the current year?
+a) $463,400
+b) $467,600
+c) $480,000
+d) $497,800
+Feedback
+Option b) is correct. It was determined as follows:
+Net income for accounting purposes
+$ 532,000 
+Equity income
+(35,800)
+Dividends from Dardin
+23,400 
+Charitable donations
+4,200 
+Net income for tax purposes
+$ 523,800 
+Rental income
+$ 21,400 
+Dividends on Dardin shares
+23,400 
+Dividends from taxable Canadian corporations
+6,800 
+Foreign dividends
+4,600 
+Property income included in net income
+56,200 
+Division C dividends deducted: $23,400 + $6,800
+(30,200)
+Aggregate investment income (AII)
+$ 26,000 
+Net income for tax purposes
+$ 523,800 
+Property income included in net income
+(56,200)
+ABI
+$ 467,600 
+Question 10 
+Richard is the sole shareholder of Ringo Inc., a Canadian-controlled private corporation (CCPC) that manufactures drum sets. It was incorporated in 2008 and has qualified for the small business deduction every year since then. For the years ended December 31, 2023 and 2024, Ringo had taxable capital of $15,000,000 and $16,500,000, respectively. Ringo’s federal abatement percentage was 90% in each of those years.
+How much is Ringo’s business limit for the year ended December 31, 2024?
+a) $418,750
+b) $437,500
+c) $439,375
+d) $456,250
+Feedback
+Option d) is correct. It was determined as follows:
+Taxable capital employed in Canada in 2023: $15,000,000 × 90% = $13,500,000
+Reduction in business limit: {[0.225% × ($16,500,000 – $10,000,000)] / 90,000} × $500,000 = $43,750
+Reduced business limit: $500,000 – $43,750 = $456,250
+Question 11 
+Net income for tax purposes for Pill Inc. for 2024 has been correctly calculated as $542,000. Pill is associated with another corporation, and as a result Pill has been allocated 80% of the business limit for the year. Pill received dividends of $150,000 from taxable Canadian corporations in the year. Pill also earned rental income of $24,000 and realized a taxable capital gain of $10,000 in the year. Pill’s and the associated corporation’s adjusted aggregate investment income (AAII) in 2023 and 2024 was less than $50,000. The two corporations’ combined taxable capital employed in Canada (TCEC) in 2023 was less than $10,000,000.
+How much is the small business deduction for Pill for the year?
+a) $54,416
+b) $68,020
+c) $72,580
+d) $74,480
+Feedback
+Option b) is correct. The calculation is:
+AII:
+Taxable capital gain
+$ 10,000 
+Dividends received
+150,000 
+Rental income
+24,000 
+Taxable capital gains and property income in net income
+$ 184,000 
+Less: dividends
+(150,000)
+AII
+$ 34,000 
+Small business deduction: 19% of the least of:
+i) Net Canadian active business income
+Net income
+$ 542,000 
+Less: taxable capital gains and property income in net income
+(184,000)
+$ 358,000 
+ii) Taxable income
+Net income
+$ 542,000 
+Division C dividend deduction
+(150,000)
+$ 392,000 
+iii) Business limit allocated ($500,000 × 80%)
+$ 400,000 
+Least of i, ii, and iii
+$ 358,000 
+19% 
+Small business deduction
+$ 68,020 
+Question 12 
+The following information relates to Ben Inc. for its 2024 taxation year: 
+Net taxable capital gains
+$13,125
+Dividends received on public company shares (1)
+12,000
+Dividends received on private company shares (2)
+18,000
+Eligible dividends paid
+50,000
+Non-eligible dividends paid
+70,000
+Opening non-eligible dividend tax on hand (NERDTOH) balance
+26,200
+Opening eligible refundable dividend tax on hand (ERDTOH) balance
+nil
+(1) Ben owns 5% of the shares of this company.
+(2) Ben owns 25% of the share of this company.
+Which one of the following is the maximum dividend refund that Ben may claim in 2024?
+a) $26,833
+b) $31,433
+c) $34,825
+d) $38,333
+Feedback
+Option b) is correct.
+NERDTOH opening balance
+$26,200
+Refundable Part I tax: $13,125 × 30⅔%
+4,025
+Balance in NERDTOH before dividend refund
+$30,225
+ERDTOH opening balance
+$ nil
+Part IV tax on eligible dividends: $12,000 × 38⅓%
+4,600
+Balance in ERDTOH before dividend refund
+$4,600
+Dividend refund out of NERDTOH is lesser of:
+Balance in NERDTOH account
+$30,225
+38⅓% × non-eligible dividends paid: $70,000 × 38⅓%
+$26,833
+Dividend refund out of ERDTOH is lesser of:
+Balance in ERDTOH account
+$4,600
+38⅓% × eligible dividends paid: $50,000 × 38⅓%
+$19,167
+Maximum refund: $26,833 + $4,600
+$31,433
+Ben cannot get a full refund of the balance in the NERDTOH account because sufficient non-eligible dividends were not paid.
+Question 13 
+The following information relates to Smith Industries (Smith) for the 2024 taxation year:
+Net income for tax purposes
+$ 631,000
+Net taxable capital gains realized in the year
+23,000
+Passive net rental income
+22,000
+Dividends received from taxable Canadian corporations
+26,000
+Smith is not associated with any other corporations and is eligible to claim the full amount of the small business deduction for its 2024 taxation year. Smith has a net capital loss carryforward from 2022 of $5,000.
+How much can Smith claim for the general rate reduction in determining its tax payable for 2024?
+a) $3,770
+b) $7,800
+c) 10,660
+d) $11,830
+Feedback
+Option b) is correct. The calculation is:
+Net taxable capital gains
+$ 23,000 
+Rental income
+22,000 
+Dividends received
+26,000 
+Net taxable capital gains and property income in net income
+71,000 
+Dividends
+(26,000)
+Net capital loss carryover
+(5,000)
+AII
+$ 40,000 
+Net income for tax purposes
+$ 631,000 
+Division C deductions:
+Dividends
+(26,000)
+Net capital loss carryforward
+(5,000)
+Taxable income
+$ 600,000 
+Taxable income
+$ 600,000 
+Amount eligible for the small business deduction
+(500,000)
+AII
+(40,000)
+Full-rate taxable income
+60,000 
+Rate
+× 13% 
+General rate reduction
+$ 7,800 
+Question 14 
+Greg and Patricia are filing for divorce. They are willing to cooperate in finalizing their written separation agreement to minimize the immediate tax impact of splitting their marital assets. As they plan on keeping the assets for the long term and expect to be in similar tax brackets in the foreseeable future, they are not too concerned about consequences of future dispositions. They have the following assets they need to split:
+Fair market value (FMV) Adjusted cost base (ACB) Ownership
+Family home $850,000 $500,000 50-50
+Rental property $400,000 $300,000 50-50
+Public company shares $28,000 $42,000 Patricia
+They have agreed that Greg will transfer his ownership portion of the family home, their principal residence, to Patricia. Patricia will transfer her ownership portion of the rental property, as well as the public company shares that she owns, to Greg. Patricia has also disposed of other shares this year and has a taxable capital gain of $10,000 to report. 
+Which one of the following statements is true?
+a) Greg should not elect out of ITA 73(1) for his transfer of the family home.
+b) Patricia should allow for automatic transfer under ITA 73(1) for the rental property.
+c) Patricia should not elect out of ITA 73(1) for her transfer of the public company shares, as this will trigger a loss, which will be denied.
+d) Patricia should elect out of ITA 73(1) for her transfer of the public company shares so that future dividends received will not attribute back to her.
+Feedback
+Option b) is correct. This statement is true. If Patricia elects out of ITA 73(1), it will result in immediate taxable capital gain on which she will have to pay taxes. The principal residence exemption cannot be used on the rental property. Therefore, to avoid immediate tax consequence, Patricia should allow for automatic transfer under ITA 73(1).
+Question 15 
+On February 1, 2024, Lanni gifted shares of Marchant Inc., a Canadian public company, to her 15-year-old daughter, MacKenzie. At that time, the fair market value of the shares was $33,000 and the adjusted cost base of the shares was $40,000. During the year, the shares paid dividends of $1,000. MacKenzie sold the shares to an unrelated individual at the end of 2024 for $49,000.
+Which one of the following is true?
+a) Lanni will realize an allowable capital loss of $3,500 that she can claim against taxable capital gains realized in the year, if any. She will also include dividends of $1,380 in her income. MacKenzie will include an $8,000 taxable capital gain in her income.
+Taxable capital gain /
+(Allowable capital loss)
+Dividends
+Lanni
+($3,500)
+$1,380
+MacKenzie
+$8,000
+—
+b) Lanni will include a taxable capital gain and a dividend of $4,500 and $1,380, respectively, in her income. There will be no impact on MacKenzie's income.
+Taxable capital gain /
+(Allowable capital loss)
+Dividends
+Lanni
+$4,500
+$1,380
+MacKenzie
+—
+—
+c) Lanni will realize an allowable capital loss of $3,500 that she can claim against taxable capital gains realized in the year, if any. MacKenzie will include an $8,000 taxable capital gain in her income. She will also include dividends of $1,380 in her income.
+Taxable capital gain /
+(Allowable capital loss)
+Dividends
+Lanni
+($3,500)
+—
+MacKenzie
+$8,000
+$1,380
+d) Lanni will include a dividend of $1,380 in her income, and MacKenzie will include a taxable capital gain of $4,500 in her income.
+Taxable capital gain /
+(Allowable capital loss)
+Dividends
+Lanni
+—
+$1,380
+MacKenzie
+$4,500
+—
+Feedback
+Option a) is correct. Lanni's allowable capital loss is [($33,000 – $40,000) × ½]. Lanni's daughter is not 18 in the year and the shares were gifted to her; therefore, attribution applies and the dividend is included in Lanni's income. The capital gain of [($49,000 – $33,000) × ½] on subsequent sale is taxed in MacKenzie's hands. Capital gains are not attributed on sales and transfers to non-arm's length minors.
