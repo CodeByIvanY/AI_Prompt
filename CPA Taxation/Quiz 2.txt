@@ -194,7 +194,7 @@ d) $456,250
 Feedback
 Option d) is correct. It was determined as follows:
 Taxable capital employed in Canada in 2023: $15,000,000 × 90% = $13,500,000
-Reduction in business limit: {[0.225% × ($16,500,000 – $10,000,000)] / 90,000} × $500,000 = $43,750
+Reduction in business limit: {[0.225% × ($13,500,000 – $10,000,000)] / 90,000} × $500,000 = $43,750
 Reduced business limit: $500,000 – $43,750 = $456,250
 Question 11 
 Net income for tax purposes for Pill Inc. for 2024 has been correctly calculated as $542,000. Pill is associated with another corporation, and as a result Pill has been allocated 80% of the business limit for the year. Pill received dividends of $150,000 from taxable Canadian corporations in the year. Pill also earned rental income of $24,000 and realized a taxable capital gain of $10,000 in the year. Pill’s and the associated corporation’s adjusted aggregate investment income (AAII) in 2023 and 2024 was less than $50,000. The two corporations’ combined taxable capital employed in Canada (TCEC) in 2023 was less than $10,000,000.
