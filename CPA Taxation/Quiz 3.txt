@@ -1,0 +1,318 @@
+Question 1 
+The following information is provided for Lacey Smyth, a commissioned sales employee of Canthrup Co. for the 2024 taxation year:
+Salary
+$ 95,000
+Commission
+15,000
+Amount paid by Lacey for meals and entertainment of clients and potential clients of Canthrup
+3,200
+Lacey’s employer provides her with a vehicle for employment purposes. Of the 18,000 kilometres travelled, 8,100 kilometres were for personal purposes. The correct amount for the standby charge is $3,790. Lacey paid all vehicle operating costs totalling $1,200 for the year.
+Lacey is not provided with an office at her employer’s place of business so is required to use an office in her home. The office occupies 12% of the square footage of the home. The following expenses were incurred with respect to the home in 2023:
+Mortgage interest
+$ 16,200
+Utilities
+4,300
+Property taxes
+4,200
+Insurance
+2,800
+How much should Lacey report for employment income for 2024?
+a) $108,230
+b) $110,174
+c) $110,294
+d) $111,774
+Feedback
+Option b) is correct. It was determined as follows:
+Salary
+$ 95,000 
+Commission
+15,000 
+Standby charge
+3,790 
+Operating costs: $1,200 × (18,000 – 8,100) / 18,000
+(660)
+Meals and entertainment: $3,200 × ½
+(1,600)
+Home office: ($4,300 + 4,200 + 2,800) × 12%
+(1,356)
+Employment income
+$ 110,174 
+Question 2 
+Harold Clark received a $100,000 home relocation loan from his employer on September 1, 2023. He is required to pay interest at the end of each month at a rate of 1% per annum. On January 1, 2024, he paid his employer $10,000 of the principal amount of the loan. Assume Canada Revenue Agency (CRA) prescribed rates were as follows at relevant times:
+Quarter
+2023
+2024
+First — 90 days
+4.0%
+4.0%
+Second — 91 days
+3.0%
+3.0%
+Third — 92 days
+3.0%
+3.0%
+Fourth — 92 days
+4.0%
+2.5%
+How much is the increase in Harold’s 2024 taxable income as a result of the loan (rounded to the nearest dollar)?
+Selected
+a) $1,687
+b) $1,908
+c) $1,874
+d) $2,587
+Feedback
+Option a) is correct. It was determined as follows:
+First, second, and third quarters: 3% × $90,000 × 273 / 365
+2,019.45 
+Fourth quarter: 2.5% × $90,000 × 92 / 365
+567.12 
+Interest paid: 1% × $90,000
+(900.00)
+Imputed interest benefit
+$ 1,686.57 
+Question 3 
+Michael King is an employee of Conron Inc., a Canadian-controlled private corporation (CCPC). He was granted 5,000 options on January 1, Year 2022. Each option entitled Michael to purchase one share of Conron for $5.00. On the grant date, Conron shares were valued at $6.00 per share. Michael exercised his option to acquire 5,000 shares on March 1, Year 2023, when the shares were valued at $8.00 per share. On October 1, 2024, Michael sold 5,000 shares at $9.70 per share.
+How much will Michael’s taxable income increase by for 2024 as a result of the above transactions?
+a) $4,250
+b) $11,750
+c) $14,250
+d) $19,25250
+Feedback
+Option d) is correct. The stock option benefit is calculated as ($8.00 – $5.00) × 5,000 = $15,000, and the taxable capital gain is calculated as [($9.70 – $8.00) × 5,000] × ½ = $4,250. The option was in the money on the grant date because the FMV on the grant date of $6.00 was greater than the exercise price of $5.00. Therefore, as an employee of a CCPC, Michael will be eligible for a Division C deduction only if he holds the shares for at least 24 months. Michael held the shares from March 1 of 2023 to October 1 of 2024, which is less than 24 months. Therefore, Michael is not eligible for a Division C deduction.
+Question 4 
+On January 1, 2024, Claire hired a new salesperson for her business, Fab Kitchens. The new salesperson is responsible for making home visits to customers interested in remodelling their kitchens, so Claire has provided the salesperson with a leased vehicle. Fab pays all costs associated with the vehicle. Monthly lease payments are $350. A total of 28,000 kilometres were driven in 2024 but only 12,000 kilometres were for employment purposes. 
+What amount of taxable benefit associated with the vehicle will be included in the salesperson’s T4 in 2024?
+a) $4,200
+b) $6,760
+c) $7,520
+d) $8,080
+Feedback
+Option d) is correct.
+Standby charge ($350 × ⅔ × 12)
+$2,800
+Operating benefit (16,000 kilometres × $0.33)
+$5,280
+Total benefit
+$8,080
+Question 5 
+On March 1, 2024, the day George started working for Ratich Inc., he leased a vehicle. Ratich requires he use the vehicle in the performance of his employment duties. His monthly lease payments are $873, which includes GST of $39 and insurance of $54. The manufacturer’s list price for the vehicle was $48,930 (including GST). During the period from March 1 to December 31, George drove a total of 15,400 kilometres, of which 9,240 were personal kilometres. The GST rate is 5%.
+How much is the maximum deduction for vehicle lease costs George can claim in determining his employment income for 2024?
+a) $3,060
+b) $3,213
+c) $3,424
+d) $4,819
+Feedback
+Option b) is correct. It was determined as follows:
+Lease less insurance ($873 – $54) $819
+Number of months 10
+Manufacturer's list price (37,000 × 1.05) / [0.85 × (48,930 / 1.05)] 0.9808
+Employment usage (15,400 – 9,240) / 15,400 0.40
+$3,213
+The numerator is the monthly lease payment including GST before insurance times 10 months times the prescribed amount of $37,000 plus GST. The denominator is 85% × the manufacturer's list price before GST. The result is pro-rated for employment kilometres as a percentage of total kilometres travelled.
+Question 6 
+Billing Co. purchased and provided an automobile to Daniel on January 6, 2024. The original cost was $40,000 including HST. Personal kilometres driven in 2024 were 3,400, and employment kilometres were 9,600. The operating costs paid by the company were $4,500.
+How much is the total automobile benefit that should be included in Daniel’s 2024 employment income?
+
+a) $1,632
+b) $2,448
+c) $2,754
+d) $10,722
+
+Feedback
+Option b) is correct.
+Standby charge ($40,000 × 2% × 12 months) × 3,400 / 20,004 $1,632
+Operating benefit lesser of: 3,400 personal kilometres × $0.33 = $1,122 and 50% of the reduced standby charge = $816 $ 816
+Total benefit $2,448
+Question 7 
+Xavier owns two residential rental properties; both are Class 1 properties for capital cost allowance (CCA) purposes. The income earned from the rental properties for the 2024 is summarized below. 
+Property #1
+Property #2
+Rental revenue
+$ 20,000 
+$ 25,000
+Expenses (repairs, insurance, mortgage interest, property taxes)
+$ 25,000 
+$ 16,000
+Net income (loss)
+$ (5,000)
+$ 9,000
+Undepreciated capital cost (UCC) balance at beginning of year
+$120,000 
+$104,000
+How much is the maximum CCA that Xavier can claim on his rental properties in 2024?
+Selected
+a) $4,000
+b) $4,160
+c) $6,240
+d) $8,960
+
+Feedback
+Option a) is correct. The maximum CCA is ($120,000 + $104,000) × 4% = $8,960. However, CCA is limited to the net rental income before CCA {property #1, $(5,000) + property #2, $9,000 = $4,000 [Reg. 1100(11)]}. $4,000 of CCA is deductible, which reduces the net rental income to nil.
+Question 8 
+In 2005, Mike and his wife, Li, purchased a house in Winnipeg for $230,000. In 2010, they acquired a cottage in Gimli, Manitoba, at a cost of $150,000. In 2024, they sold both the house and the cottage. Proceeds on the sale of the house were $280,000, while proceeds on the sale of the cottage totalled $210,000. Both Mike and Li have worked regularly over the years and have contributed equally to the purchase and maintenance of the properties. Both properties were lived in by Mike and Li at some point during each year of ownership and they were never rented out.
+Which one of the following is the lowest taxable capital gain that Mike and Li must report for 2024?
+
+a) $15,789
+b) $16,250
+c) $17,500
+d) $26,000
+
+Feedback
+Option b) is correct.
+Gain per year on house: ($280,000 – $230,000) = $50,000 / 20 years = $2,500/year
+Gain per year on cottage: ($210,000 – $150,000) = $60,000 / 15 years = $4,000/year
+House Cottage
+Gain $ 50,000 $ 60,000
+Exemption1 (17,500) (60,000)
+Capital gain $ 32,500 $ 0
+Taxable $ 16,250 
+1Exemptions:
+House (2005 to 2010 — six years): [(1 + 6) / 20] × 50,000 = 17,500
+Cottage (2011 to 2024 — 14 years): [(1 + 14) / 15] × 60,000 = 60,000
+Question 9 
+Gudaf is an employee of Terra Inc. with the following information:
+Gudaf’s salary for 2024 was $132,600. As part of her employment duties, Gudaf is required to entertain clients of her employer. She is provided an allowance of $230 each month. Based on receipts kept, she actually spent $2,900 entertaining clients of Terra in 2024.
+Terra requires Gudaf to use her own vehicle for employment purposes. Deductible lease payments on the vehicle Gudaf leased in 2024 have been correctly determined as $4,260. Terra reimbursed Gudaf for operating costs of $2,460 for gas, oil, and insurance for the year. Total kilometres travelled in the vehicle in 2024 were 10,200, of which 3,570 were for employment purposes.
+Which one of the following is Gudaf’s employment income for 2024?
+Unselected
+a) $131,249
+b) $129,939
+c) $132,699
+d) $133,288
+
+Feedback
+Option c) is correct. It was determined as follows:
+Salary
+$ 132,600 
+Entertainment allowance: $230 × 12
+2,760 
+Deductible lease payments
+(4,260)
+Operating cost benefit: (10,200 – 3,570) / 10,200 × $2,460
+1,599 
+Employment income
+$ 132,699 
+Question 10 
+Sharon is a member of her employer’s money purchase Registered Pension Plan (RPP). Sharon’s 2023 earned income was $70,000, and her employer indicated that her 2023 pension adjustment (PA) is $3,000. At the end of 2023, Sharon had no Registered Retirement Savings Plan (RRSP) deduction room carryforward, nor any undeducted contributions available to carry forward. The RRSP dollar limit for 2024 is $31,560. On May 15, 2024, Sharon contributed $6,000 to her RRSP. Sharon contributed a further $6,100 on January 3, 2025.
+Which one of the following is the maximum RRSP deduction that Sharon can claim on her 2024 personal tax return?
+a) $6,000
+b) $9,600
+c) $11,600
+d) $12,600
+
+Feedback
+Option b) is correct. $12,600 – $3,000 = $9,600. $12,600 is 18% of Sharon's earned income for 2023; $3,000 is her PA. Sharon's maximum deduction is the lesser of her deduction limit of $9,600 and contributions made in the available time period of $6,000 + $6,100 = $12,100.
+Question 11 
+Martha and Gary have two children. Jaimi turned nine in 2024, and Luc turned five in 2024. Gary earned employment income in the year of $96,800 and Martha earned employment income of $18,900. In early November of 2024, a filing cabinet fell on Martha. She was hospitalized for three weeks and required to spend another three weeks confined to her bed at home while she recovered.
+Day care fees paid for each child during 2024 were as follows:
+Luc
+$8,640
+Jaimi
+4,680
+Martha and Gary would like to optimize their child care deduction.
+Which one of the following is the amount of child care expenses that Martha may claim in her 2024 tax return?
+
+a) $10,650
+b) $11,050
+c) $12,600
+d) $13,320
+
+Feedback
+Option a) is correct. It was determined as follows:
+Least of:
+(i) ⅔ of earned income: ⅔ × $18,900
+12,600 
+(ii) Maximum based on limits: $5,000 + $8,000
+13,000 
+(iii) Amount paid: $8,640 + $4,680
+13,320 
+Least of
+$ 12,600 
+Deducted by Gary: 6 weeks × ($200 + $125)
+(1,950)
+Martha's deduction
+$ 10,650 
+Question 12 
+Jennifer and Ben divorced in 2020. A written divorce agreement requires Jennifer to make monthly payments of $400 to Ben for his support as well as monthly support payments of $700 to Ben for the former couple’s two children. In 2024, because of a temporary job loss, Jennifer made total support payments of only $10,100 to Ben.
+How much is the maximum deduction Jennifer may claim for support payments in 2024?
+
+a) $1,700
+b) $4,800
+c) $5,300
+d) $10,100
+
+Feedback
+Option a) is correct. It was determined as follows:
+Total payments made
+$ 10,100 
+Deemed to be for support of children: $700 × 12
+(8,400)
+Deductible spousal support payments
+$ 1,700 
+Question 13 
+Early 2024, Ed found a new job that required him to relocate from Saskatoon to Edmonton. He incurred the following costs with respect to the move:
+Cost of flight and cab fare for house-hunting trip to Edmonton (Note 1) $ 545
+Lease cancellation costs on Saskatoon home 590
+Cost of moving household effects 2,180
+Legal fees and title transfer fees on Edmonton home 1,860
+Note 1: Ed made a one-day trip to Edmonton to find a new home. He had done significant research prior to the trip, so with the help of a real estate agent, it took only one day to finalize the purchase of a home.
+Assuming that Ed earned sufficient employment income after the move, which one of the following is the maximum claim Ed may make for moving expenses?
+
+a) $2,770
+b) $3,315
+c) $4,630
+d) $5,175
+
+Feedback
+Option a) is correct. The maximum deduction is $2,770, which includes the lease cancellation costs on the Saskatoon home of $590 and the cost of moving household effects of $2,180. The cost of the house-hunting trip is not deductible, and the legal fees and title transfer fees on the Edmonton home are not deductible because the Saskatoon home was not owned (it was rented).
+Question 14 
+In 2024, Maria moved from Vancouver to Calgary because Maria’s employer transferred her to the newly opened Calgary office. She made the one-day drive from Vancouver to Calgary on May 31. She started work on June 1. From May 31 to June 8, Maria rented a short-term accommodation. On June 9, she moved into an apartment in Calgary. It took some time after the move to sell her Vancouver home. She forgot to keep receipts for meals (three meals per day for nine days) and vehicle-related expenses. She incurred the following costs with respect to the move:
+Cost of short-term accommodation (nine nights)
+$1,800
+Cost of maintaining Vancouver home (mortgage interest and property taxes) from the date of the move to the date of sale
+6,700
+Cost of moving household effects
+2,500
+The distance from Vancouver to Calgary is 1,000 kilometres. Assume the Canada Revenue Agency (CRA)’s per-kilometre amounts are as follows:
+Alberta $0.485
+British Columbia $0.585
+Assuming Maria earned sufficient employment income after the move, which one of the following is the maximum claim she may make for moving expenses?
+
+a) $9,300
+b) $10,406
+c) $10,506
+d) $12,206
+
+Feedback
+Option c) is correct. This was calculated as $1,800 + $5,000 + $2,500 + ($0.585/ kilometre × 1,000 kilometres) + ($69/day × 9 days). The cost of maintaining a vacant former residence is limited to $5,000. Although she did not keep the receipts for the meals and vehicle-related expenses, she can still use the simplified method. For the motor vehicle expense, the rate provided for the originating province (British Columbia) is to be used. For meals, a flat rate of $23 per meal, to a daily maximum of $69, can be used per person.
+Question 15 
+Jasmeet is an employee of a Canadian-controlled private corporation (CCPC). Jasmeet’s employer sponsors a stock option plan for its employees. The following information has been provided with respect to Jasmeet’s stock options: 
+Options exercised in 2022
+Options exercised in 2023
+Selling price per share
+$12.00 
+$12.00 
+Fair market value — exercise date
+10.00 
+10.50 
+Fair market value — grant date
+8.00 
+9.00 
+Exercise price
+8.00 
+8.50 
+Number of options exercised
+1,000 
+1,500 
+Year shares sold
+2024
+2024
+Assuming Jasmeet sold all shares acquired from options exercised, which one of the following is the Division C deduction she can claim in 2024?
+
+a) $0
+b) $1,000
+c) $2,000
+d) $2,500
+
+Feedback
+Option b) is correct. The Division C deduction is [1,000 shares × ($10.00 – $8.00)] × ½ = $1,000, which is one-half of the employment benefit on the options exercised in Year 1. Jasmeet is not eligible for a Division C deduction on the options exercised in Year 2 because the option was in the money when granted (the exercise price of $8.50 was less than the fair market value of the shares on the grant date of $9.00) and Jasmeet did not hold the shares for at least two years.
