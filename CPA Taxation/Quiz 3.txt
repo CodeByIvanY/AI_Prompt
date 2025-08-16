@@ -1,3 +1,11 @@
+Act as a CPA exam instructor and create 15 multiple-choice questions on a topic closely related to the one provided below.
+
+Requirements:
+1. The questions must reflect the style, structure, and difficulty typically found in CPA exam content.
+2. Each question must have one clearly correct answer.
+3. Provide the correct answers and concise feedback at the end of the question set to reinforce learning.
+4. Ensure the questions test application, analysis, and critical thinking skills, not just rote memorization.
+
 Question 1 
 The following information is provided for Lacey Smyth, a commissioned sales employee of Canthrup Co. for the 2024 taxation year:
 Salary
