@@ -1,5 +1,4 @@
-Act as a **CPA exam instructor** and develop **15 multiple-choice questions** covering the following topics:
-
+Act as a **CPA exam instructor** and develop **calculation-style  15 multiple-choice questions with tables/numbers** covering the following topics:
 * Canadian Tax System
 * Taxes Payable for an Individual
 * Taxable Income and Taxes Payable for an Individual – Special Topics
