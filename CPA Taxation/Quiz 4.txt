@@ -1,1 +1,22 @@
+Act as a **CPA exam instructor** and develop **calculation-style  15 multiple-choice questions with tables/numbers** covering the following topics:
+* Canadian Tax System
+* Taxes Payable for an Individual
+* Taxable Income and Taxes Payable for an Individual – Special Topics
+* Shareholder-Manager Tax Planning
 
+**Requirements:**
+
+1. Questions must reflect the **style, structure, and difficulty level** typically found on the CPA exam.
+2. Each question must have **four answer choices**, with **one clearly correct answer**.
+3. Provide a complete **answer key with concise explanations** at the end of the set to reinforce learning.
+4. Ensure the questions assess not only **knowledge recall**, but also **application, analysis, and critical thinking skills** in practical scenarios.
+5. Where appropriate, incorporate **numerical problems, case-style setups, or judgment-based scenarios** to mirror CPA exam expectations.
+
+**Notes**
+*Small Business Deduction*
+* Available on the first $500,000 of the ABI earned annually by a CCPC.
+* $500,000 limit includes all ABI earned by any associated corporations.
+* The deduction is based on 19% of the least of:
+  - ABI
+  - Taxable income less foreign source income
+  - The business limit
