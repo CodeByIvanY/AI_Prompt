@@ -5,3 +5,72 @@ Requirements:
 2. Each question must have one clearly correct answer.
 3. Provide the correct answers and concise feedback at the end of the question set to reinforce learning.
 4. Ensure the questions test application, analysis, and critical thinking skills, not just rote memorization.
+
+
+Topics
+Case Response Topics
+Taxation — Calculates taxable income for the corporation
+Taxation — Explains the implications of selling the vacant land
+Taxation — Data security and integrity
+Taxation — Calculates property income and net taxable capital gains included in net income and aggregate investment income (AII) included in taxable income
+Taxation — Calculates taxable income
+Taxation — Calculates CCA
+Taxation — Supports adjustments to taxable income
+Taxation — Instalments
+Taxation - Non-Arm's Length Transfer of Property
+Taxation - Inadequate Consideration
+Taxation - Inter Vivos Transfers to a Spouse
+Taxation - Non-Arm's Length Transfers of Depreciable Assets
+
+
+MC Topics
+The Income Tax Act
+Personal Source of Income
+Captial Cost Allowance
+Business Income or Loss
+Reserve for Unearned Income
+Business Income or Loss - Deductibility of Expenses Incurred
+Property Income
+Capital Gains and Losses
+Capital Gains and Losses - Special rules – PUP and LPP
+Capital Gains and Losses - Capital versus income factors
+Capital Gains and Losses - Adjusted Cost Base
+Capital Gains and Losses - The capital gains reserve 
+Capital Gains and Losses - Principle residence exemption 
+-------------------------------------------------------------------
+Administration
+Capital Gains and Losses - Business investment loss 
+Capital Gains and Losses - Deferred Capital Gains/Recapture
+Capital Gains and Losses - Replacement property rules
+Capital Gains and Losses - Change in Use
+Income Attribution
+Non-Arm's Length Transactions
+Taxable Income for a Corporation
+Taxes Payable for a Corporation
+Taxes Payable for a Corporation - Special Topics
+Taxes Payable on Investment Income for a CCPC
+-------------------------------------------------------------------
+Employment Income
+Other Personal Income and Other Dedctions
+Taxable Income for an Individual
+Deferred Income Plans
+Deferred Income Plans - Registered Retirement Savings Plan
+Deferred Income Plans - Registered Eduction Savings Plan
+-------------------------------------------------------------------
+Canadian Tax System
+Taxes Payable for an Individual
+Taxable Income and Taxes Payable for an Individual - Special Topics
+Shareholder Manager Tax Planning
+--------------------------------------------------------------------
+Employee versus Contractor
+Residency
+Reorganizations
+Other Structures
+Stakeholder Relationships
+Purchase and Sales of a Business
+Acqusition of Control
+Information Technology in Taxation
+Emerging Issues
+Ethics and Taxatin
+Death of a Taxpayer
+Goods and Services Tax
