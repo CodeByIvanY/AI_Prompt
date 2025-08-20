@@ -7,20 +7,7 @@ Requirements:
 4. Ensure the questions test application, analysis, and critical thinking skills, not just rote memorization.
 
 
-Topics
-Case Response Topics
-Taxation — Calculates taxable income for the corporation
-Taxation — Explains the implications of selling the vacant land
-Taxation — Data security and integrity
-Taxation — Calculates property income and net taxable capital gains included in net income and aggregate investment income (AII) included in taxable income
-Taxation — Calculates taxable income
-Taxation — Calculates CCA
-Taxation — Supports adjustments to taxable income
-Taxation — Instalments
-Taxation - Non-Arm's Length Transfer of Property
-Taxation - Inadequate Consideration
-Taxation - Inter Vivos Transfers to a Spouse
-Taxation - Non-Arm's Length Transfers of Depreciable Assets
+
 
 
 MC Topics
