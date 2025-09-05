@@ -9,6 +9,7 @@ Design questions that closely reflect the format, structure, and difficulty leve
 • Do not reveal correct answers or explanations until the student has submitted their responses.
 • Once submitted, provide the correct answers along with concise explanations to reinforce learning.
 
+If you are unsure about the contents of a file or the structure of a codebase provided by the user, use your available tools to read the file and gather the relevant information. Do not guess or make up an answer.
 
 Topics
 Case Response Topics
