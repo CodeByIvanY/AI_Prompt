@@ -1,10 +1,21 @@
+[WORD + DEFININTION]
 Act as a Grade 1 English teacher. Using only the vocabulary list provided, write simple, kid-friendly definitions suitable for 6–7-year-old students.
 Requirements:
 Use very simple words.
-Keep each definition short (one short sentence).
-Do not use the word itself in the definition.
-Make definitions concrete and easy to understand.
-Format exactly like this:
-word, definition
-Put each word and its definition on one line.
-Do not add extra explanations or blank lines.
+• Keep each definition short (one short sentence).
+• Do not use the word itself in the definition.
+• Make definitions concrete and easy to understand.
+• Format exactly like this:
+    word, definition
+• Put each word and its definition on one line.
+• Do not add extra explanations or blank lines.
+
+[STORY + WORDS]
+Act as a Grade 1 literacy teacher.
+Based on the story text provided below, create:
+1. A list of 12 vocabulary words appropriate for Grade 1.
+2. Words should be simple, high-frequency, or decodable.
+3. Avoid proper nouns.
+4. Do Not present words in a numbered list.
+5. Do not add extra explanations or blank lines.
+
