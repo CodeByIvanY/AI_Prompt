@@ -1,0 +1,16 @@
+Role: Act as a Manager-level reviewer in a professional services firm.
+Task: Rewrite the message below so that it reflects Manager-level ownership and decision-making.
+Requirements:
+1. Lead with a clear recommendation or decision (not background or analysis).
+2. Use decisive, ownership-driven language (e.g., “we will,” “my recommendation is,” “we should proceed with”).
+3. Compress technical details to only what supports the conclusion.
+4. Remove hedging, passive voice, and approval-seeking language.
+5. Frame risks as identified and managed, not as open questions.
+Additionally:
+* Identify downgrading words that reduce authority and explain why they weaken the message.
+* Identify power words that increase perceived ownership and explain why they strengthen the message.
+Output format:
+* Manager-level rewritten version
+* List of downgrading words → suggested replacements
+* List of power words used and why they matter
+Original message: [Paste text here]
