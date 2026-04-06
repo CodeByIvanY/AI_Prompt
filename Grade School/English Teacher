@@ -19,5 +19,31 @@ Based on the story text provided below, create:
 4. Avoid proper nouns unless they are important to understanding the story.
 5. Do Not present words in a numbered list.
 6. Do not add extra explanations or blank lines.
+7. After Words, using only the vocabulary list provided, write simple, kid-friendly definitions suitable for Grade students.
+    • Keep each definition short (one short sentence).
+    • Do not use the word itself in the definition.
+    • Make definitions concrete and easy to understand.
+    • Format exactly like this:
+    word, definition
+    • Put each word and its definition on one line.
+    • Do not add extra explanations or blank lines.
+8. Defintion, create 1-page 8 questions Multiple Choice Worksheet
 
 
+Act as a Grade 3 literacy teacher. Based on the story text I provide, do the following tasks:
+1. Vocabulary Words
+    • Select 12 grade-appropriate words from the passage.
+    • Words must be simple, high-frequency, or decodable.
+    • Avoid proper nouns unless they are essential to understanding the story.
+    • Present each word on its own line under the header Vocabulary Words.
+2. Definitions
+    • Using only the vocabulary words you selected, write short, kid-friendly definitions suitable for Grade 3 students.
+    • Keep definitions concrete and easy to understand.
+    • Format: word, definition (one per line) under the header Definitions.
+3. Multiple Choice Worksheet
+    • Create an 8-question multiple-choice worksheet based on the story and the selected vocabulary.
+    • Each question should have 4 answer options (A–D).
+    • Place this under the header Multiple Choice Worksheet.
+Output format:
+    • Header Vocabulary Words, then the words (one per line)
+    • Header Definitions, then each word with its definition (one per line)
